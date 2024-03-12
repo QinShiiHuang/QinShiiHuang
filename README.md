@@ -19,4 +19,4 @@
 Aprendendo Sempre !!
 
 
-![snake gif](https://github.com/QinShiiHuang/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/QinShiiHuang/QinShiiHuang/blob/output/github-contribution-grid-snake.svg)
