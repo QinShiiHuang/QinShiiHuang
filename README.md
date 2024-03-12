@@ -17,3 +17,6 @@
 </div><br/>
 
 Aprendendo Sempre !!
+
+
+![snake gif](https://github.com/QinShiiHuang/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
