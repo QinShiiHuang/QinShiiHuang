@@ -1,4 +1,6 @@
-### Olá ! Me chamo Nalbert Santos Falanque 🖐🏻
+<img align="left" width=30 src="https://cultofthepartyparrot.com/parrots/hd/portalorangeparrot.gif"/> 
+
+### Olá ! Eu sou Qin Shi Huang! 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nalbert-santos-falanque-068b991a1/)
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/so_li_tt_ario/)
@@ -19,4 +21,8 @@
 Aprendendo Sempre !!
 
 
-![snake gif](https://github.com/QinShiiHuang/QinShiiHuang/blob/output/github-contribution-grid-snake.svg)
+<img align="right" width=30 src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif"/>
+
+
+![Snake animation](../snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](../snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
