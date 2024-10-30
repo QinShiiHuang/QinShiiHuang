@@ -1,6 +1,6 @@
 <img align="left" width=30 src="https://cultofthepartyparrot.com/parrots/hd/portalorangeparrot.gif"/> 
 
-### Olá ! Eu sou Qin Shi Huang! 
+### Olá ! Eu me chamo Nalbert! 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nalbert-santos-falanque-068b991a1/)
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/so_li_tt_ario/)
